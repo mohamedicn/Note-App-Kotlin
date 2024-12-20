@@ -1,0 +1,10 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- The color item in the background -->
+    <item android:drawable="@color/three" />
+
+    <!-- The drawable item with image -->
+    <item
+        android:drawable="@drawable/asd"
+        android:width="30dp"
+        android:height="30dp" />
+</layer-list>

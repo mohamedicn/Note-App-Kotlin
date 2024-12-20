@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">finial_project</string>
+    <string name="notes">Notes</string>
+    <string name="search">Search</string>
+    <string name="todo">TODO</string>
+    <string name="categoies">Categoies</string>
+    <string name="category_name">Category Name</string>
+    <string name="enter_text">Enter Text</string>
+</resources>
